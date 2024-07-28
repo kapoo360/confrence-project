@@ -1527,6 +1527,7 @@ ul.categiri li a:hover {
   box-shadow: #ddd 0px 0px 19px 8px;
   margin-bottom: 29px;
   padding: 40px 25px;
+
 }
 .brand-bg h3 {
   font-size: 26px;
@@ -2180,7 +2181,8 @@ a.article:hover {
 }
 
 .card::after {
-  content: "Add to Cart";
+  
+  content: "Get Yours Now";
   padding-top: 1.25em;
   padding-left: 1.25em;
   position: absolute;
@@ -2225,7 +2227,7 @@ a.article:hover {
 }
 
 .card:active::after {
-  content: "Added !";
+  /* content: "Added !"; */
   height: 3.125em;
 }
 
@@ -2234,7 +2236,18 @@ a.article:hover {
 }
 
 .image1 {
-  background: rgb(241, 241, 241);
+  /* background-image: url(/images/cap.png); */
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  display: grid;
+  place-items: center;
+}
+.image2 {
+  /* background-image: url(/images/cap.png); */
+  background-size: contain;
+  background-repeat: no-repeat;
   width: 100%;
   height: 100%;
   display: grid;
