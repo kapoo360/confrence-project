@@ -448,6 +448,7 @@ a.readmore_bt {
 
 .logo {
   float: left;
+  width: 250px;
 }
 
 nav.main-menu {
@@ -1242,7 +1243,7 @@ nav.main-menu {
 }
 
 .slider_cont_section h4 {
-  color: #f36b2a;
+  color: #0C5ABF;
   text-transform: uppercase;
   font-size: 48px;
   font-weight: 700;
@@ -1272,7 +1273,7 @@ nav.main-menu {
 .button_section a {
   width: 190px;
   height: 50px;
-  background: #f36b2a;
+  background: #0C5ABF;
   float: left;
   margin-right: 15px;
   line-height: 50px;
@@ -1342,7 +1343,7 @@ nav.main-menu {
 }
 
 .head_top {
-  background: url(../images/bg_main.jpg);
+  background: url(../images/bg_main.png);
   background-repeat: no-repeat;
   padding-bottom: 37px;
   background-position: center;
@@ -1457,7 +1458,7 @@ nav.main-menu {
 }
 
 .carousel-indicators .active {
-  background-color: #ec3e0f;
+  background-color: #0C5ABF;
 }
 .carousel-indicators li {
   background: #0c0505;
@@ -1482,7 +1483,7 @@ nav.main-menu {
   font-weight: bold;
   margin-bottom: 25px !important;
   text-transform: uppercase;
-  border-bottom: #ee3e0f solid 3px;
+  border-bottom: #0C5ABF solid 3px;
   max-width: 312px;
   width: 100%;
   margin: 0 auto;
@@ -1493,7 +1494,7 @@ ul.categiri li {
   padding: 0;
 }
 ul.categiri li.active a {
-  background: #ee3e0f;
+  background: #0C5ABF;
   color: #fff;
 }
 ul.categiri li a {
@@ -1502,7 +1503,7 @@ ul.categiri li a {
   font-size: 19px;
 }
 ul.categiri li a:hover {
-  background: #ee3e0f;
+  background: #0C5ABF;
   color: #fff;
 }
 
@@ -1568,7 +1569,7 @@ ul.categiri li a:hover {
 .brand-bg .brand-box h5 {
   top: 0px;
   position: absolute;
-  background: #ee3e0f;
+  background: #0C5ABF;
   left: 16px;
   font-size: 16px;
   color: #fff;
@@ -1588,7 +1589,7 @@ ul.categiri li a:hover {
   font-size: 20px;
   line-height: 20px;
   font-weight: 500;
-  background: #ee3e0f;
+  background: #0C5ABF;
   color: #fff;
   text-align: center;
   margin: 0 auto;
@@ -1614,7 +1615,7 @@ ul.categiri li a:hover {
   margin: 0 auto;
 }
 .seemore:hover {
-  color: #ee3e0f;
+  color: #0C5ABF;
 }
 /** end brand section **/
 
@@ -1664,7 +1665,7 @@ ul.categiri li a:hover {
 .shoes-bg .shoes-box h5 {
   top: 0px;
   position: absolute;
-  background: #ee3e0f;
+  background: #0C5ABF;
   left: 16px;
   font-size: 16px;
   color: #fff;
@@ -1689,7 +1690,7 @@ ul.categiri li a:hover {
   background-position: center;
 }
 .save_box {
-  background: #ee3e0f;
+  background: #0C5ABF;
   width: 100%;
   display: inline-block;
   padding: 50px 0px 50px 50px;
@@ -1699,7 +1700,7 @@ ul.categiri li a:hover {
 .save_box::before {
   position: absolute;
   content: "";
-  background: url(../images/crros.png);
+  background: url(../images/crros1.png);
   height: 430px;
   width: 225px;
   top: 0;
@@ -1721,7 +1722,7 @@ ul.categiri li a:hover {
   line-height: 20px;
   font-weight: 500;
   background: #fff;
-  color: #ee3e0f;
+  color: #0C5ABF;
   text-align: center;
   margin-top: 30px;
   transition: all 0.4s ease-in;
@@ -1783,7 +1784,7 @@ ul.categiri li a:hover {
 .Jewellery-bg .Jewellery-box h5 {
   top: 0px;
   position: absolute;
-  background: #ee3e0f;
+  background: #0C5ABF;
   left: 16px;
   font-size: 16px;
   color: #fff;
@@ -1801,7 +1802,7 @@ ul.categiri li a:hover {
 
 /**  Kids section **/
 .Kids_background {
-  background: #ee3e0f;
+  background: #0C5ABF;
   margin-top: 20px;
 }
 
@@ -1889,7 +1890,7 @@ ul.sociel li a {
 
 ul.sociel li a:hover {
   color: #fff;
-  background: #d2390a;
+  background: #0C5ABF;
 }
 
 .logo1 {
@@ -1923,13 +1924,13 @@ ul.sociel li a:hover {
 
 .submit {
   margin-top: 15px;
-  background: #ee3e0f;
+  background: #0C5ABF;
   padding: 7px 26px;
   color: #fff;
   transition: all 0.4s ease-in;
 }
 .submit:hover {
-  background: #fff;
+  background: #418fcb;
   color: #000;
   border-radius: 20px;
   transition: all 0.4s ease-in;
@@ -1963,7 +1964,7 @@ ul.Menu_footer li a {
   font-size: 17px;
 }
 ul.Menu_footer li a:hover {
-  color: #ee3e0f;
+  color: #0C5ABF;
 }
 ul.Links_footer {
   list-style: none;
@@ -1978,7 +1979,7 @@ ul.Links_footer li a {
   font-size: 17px;
 }
 ul.Links_footer li a:hover {
-  color: #ee3e0f;
+  color: #0C5ABF;
 }
 ul.Links_footer li {
   padding-bottom: 6px;
@@ -1998,11 +1999,11 @@ ul.loca li {
 }
 ul.loca li a {
   padding-right: 16px;
-  color: #ee3e0f;
+  color: #0C5ABF;
   margin-top: 4px;
 }
 .copyright {
-  background-color: #ffffff;
+  background-color: #0C5ABF;
   padding: 20px 0px;
   margin-top: 90px;
 }
@@ -2017,7 +2018,7 @@ ul.loca li a {
   color: #000;
 }
 .copyright a:hover {
-  color: #ee3e0f;
+  color: #0C5ABF;
 }
 #map {
   height: 100%;
@@ -2063,7 +2064,7 @@ ul.loca li a {
 }
 
 #dismiss:hover {
-  background: #ec3e0f;
+  background: #0C5ABF;
   color: #fff;
 }
 
@@ -2111,13 +2112,13 @@ ul.loca li a {
 
 #sidebar ul li a:hover {
   color: #fff;
-  background: #ec3e0f;
+  background: #0C5ABF;
 }
 
 #sidebar ul li.active > a,
 a[aria-expanded="true"] {
   color: #fff;
-  background: #ec3e0f;
+  background: #0C5ABF;
 }
 
 a[data-toggle="collapse"] {
@@ -2188,7 +2189,7 @@ a.article:hover {
   position: absolute;
   left: 0;
   bottom: -60px;
-  background: #00AC7C;
+  background: #418fcb;
   color: #fff;
   height: 4em;
   width: 100%;

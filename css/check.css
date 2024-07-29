@@ -12,8 +12,8 @@ body {
 	display: flex;
     flex-direction: column;
     background-color: #DFDBE5;
-    background-image: url("https://wallpaperaccess.com/full/3063067.png");
-    color:#963E7B;
+    background-image: linear-gradient( #0c5abf 0%, #418fcb 100%);
+    color:#418fcb;
 }
 
 .card {
@@ -31,13 +31,13 @@ body {
 }
 
 .leftside {
-	background: #030303;
+	/* background: #030303; */
 	width: 25rem;
 	display: inline-flex;
     align-items: center;
     justify-content: center;
-	border-top-left-radius: 1.5rem;
-    border-bottom-left-radius: 1.5rem;
+	/* border-top-left-radius: 1.5rem; */
+    /* border-bottom-left-radius: 1.5rem; */
 }
 
 .product {
@@ -94,7 +94,7 @@ p{
 .button{
     background: linear-gradient(
 135deg
-, #753370 0%, #298096 100%);
+, #0c5abf 0%, #418fcb 100%);
     padding: 15px;
     border: none;
     border-radius: 50px;
@@ -135,3 +135,17 @@ p{
       border-radius:0;
     }
 }
+
+  
+  .copyright p {
+    color: #000;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+  }
+  .copyright a {
+    color: #000;
+  }
+  .copyright a:hover {
+    color: #0C5ABF;
+  }

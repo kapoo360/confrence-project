@@ -1,5 +1,9 @@
 body{
-    background-color: #212121 ;
+  background-image: linear-gradient(#418fcb, #0c5abf , #418fcb  );
+  }
+  .logo1{
+    display: flex;
+    position: absolute;
   }
   .form-container {
     width: 450px;
@@ -53,7 +57,7 @@ body{
     border-radius: 20px;
     border: 0 !important;
     outline: 0 !important;
-    background: teal;
+    background: #0c5abf;
     color: white;
     cursor: pointer;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
@@ -121,4 +125,16 @@ body{
       .google-icon {
     font-size: 18px;
     margin-bottom: 1px;
+  }
+  .copyright p {
+    color: #000;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+  }
+  .copyright a {
+    color: #000;
+  }
+  .copyright a:hover {
+    color: #0C5ABF;
   }
