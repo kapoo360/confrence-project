@@ -1684,10 +1684,11 @@ ul.categiri li a:hover {
 /**  save section **/
 .save {
   margin-top: 45px;
-  background: url(../images/save_bg.jpg);
+  background: url(../images/LOGO-1-66.png);
   background-size: auto 100%;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: right;
+  margin-right: 75px;
 }
 .save_box {
   background: #0C5ABF;
@@ -1705,6 +1706,7 @@ ul.categiri li a:hover {
   width: 225px;
   top: 0;
   right: -194px;
+  
 }
 
 .save_box h3 {
